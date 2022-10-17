@@ -1,0 +1,17 @@
+fc8f571f8a2829034b73adb2c6fc6f85 *DESCRIPTION
+3695243bff6618def47c24e1c905f3bf *NAMESPACE
+59ed51fffdee686d6484556760081421 *R/checkInputs.R
+31bf1197c8a00109585e6460242e7e8b *R/msamp.R
+a70f241c6b6e97ad3d668f09762ffd33 *build/vignette.rds
+fa02f3e79911fffcd7c28406ec38fd03 *inst/doc/msamp-vignette.R
+5cb0f3374e5afc38a2120384dd15da1e *inst/doc/msamp-vignette.Rmd
+3a0867a9e886f09125a23006b15e0a3c *inst/doc/msamp-vignette.html
+c00fde57f8c83927932ec6491f7d4bf4 *man/n.Rd
+4fc9ffa5c016b6887e8d22f72b31740e *man/p.Rd
+052ff649aab5f6ec27e34ea92f484b33 *man/plotn.Rd
+0d96461f1ae0fa4bd67535d9d6ee1567 *vignettes/image1.png
+d1b187b1d5b58c2cf1b50fdbe2440b1a *vignettes/image2.png
+cf6148940c771990afadda0bd91cda85 *vignettes/image3.png
+28547746845c0acd72498e700e14be75 *vignettes/image4.png
+b7cbe533ecba6db7814b39eecfd01023 *vignettes/image5.png
+5cb0f3374e5afc38a2120384dd15da1e *vignettes/msamp-vignette.Rmd
